@@ -1,0 +1,3 @@
+Train, Dev, Test data in the raw-text format: (label, [word_1, word_2, ... ]) where each word_i is an integer indicating the index in the word-embedding
+
+This is the same data-set used by the paper
